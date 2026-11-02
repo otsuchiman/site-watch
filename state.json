@@ -25,6 +25,7 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/housekeeping-service-minato-ward/",
     "https://chalkmessages.org/onomichi-machinery-maintenance/",
     "https://chalkmessages.org/photo-studio-in-kochi-city/",
     "https://chalkmessages.org/chiba-companion/",
@@ -90,6 +91,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10696/",
+    "https://kurashi-album.com/company/10694/",
     "https://kurashi-album.com/company/10692/",
     "https://kurashi-album.com/company/10690/",
     "https://kurashi-album.com/essay/kizon-futekikaku-ihan-difference-loan-sale-guide/",
@@ -116,6 +119,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 4
+  "sent": 5
  }
 }

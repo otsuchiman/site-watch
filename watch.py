@@ -139,10 +139,16 @@ def save_state(state):
 
 # ---------- LINE ----------
 def line_push(token, user_id, text):
+    body = {"messages": [{"type": "text", "text": text[:5000]}]}
+    if user_id:
+        url = "https://api.line.me/v2/bot/message/push"
+        body["to"] = user_id
+    else:
+        url = "https://api.line.me/v2/bot/message/broadcast"
     r = requests.post(
-        "https://api.line.me/v2/bot/message/push",
+        url,
         headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-        json={"to": user_id, "messages": [{"type": "text", "text": text[:5000]}]},
+        json=body,
         timeout=30,
     )
     if r.status_code != 200:

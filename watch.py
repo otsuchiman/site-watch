@@ -164,8 +164,8 @@ def chunk_blocks(blocks, limit=4500):
 def main():
     token = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN")
     user_id = os.environ.get("LINE_USER_ID")
-    if not token or not user_id:
-        log("LINE_CHANNEL_ACCESS_TOKEN / LINE_USER_ID が設定されていません")
+    if not token:
+        log("LINE_CHANNEL_ACCESS_TOKEN が設定されていません")
         sys.exit(1)
 
     state = load_state()

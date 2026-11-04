@@ -20,7 +20,7 @@ SITES = [
     {
         "name": "みせコレ",
         "sources": [
-            {"type": "html", "url": "https://mise-colle.com/",
+            {"type": "html", "url": ["https://mise-colle.com/", "https://mise-colle.com/shop-interviews/"],
              "pattern": r"^https://mise-colle\.com/\d+/$"},
             {"type": "rss", "url": "https://mise-colle.com/feed/"},
         ],

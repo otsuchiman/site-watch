@@ -147,6 +147,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10726/",
     "https://kurashi-album.com/company/10725/",
     "https://kurashi-album.com/company/10722/",
     "https://kurashi-album.com/essay/new-house-inspection-third-party-cost/",
@@ -188,6 +189,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 25
+  "sent": 26
  }
 }

@@ -2,6 +2,11 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/43859/",
+    "https://mise-colle.com/43849/",
+    "https://mise-colle.com/43838/",
+    "https://mise-colle.com/43836/",
+    "https://mise-colle.com/43826/",
     "https://mise-colle.com/43704/",
     "https://mise-colle.com/43684/",
     "https://mise-colle.com/43661/",
@@ -88,6 +93,8 @@
   },
   "お店紹介ひとめ帳(btj-tech-lab)": {
    "seen": [
+    "https://btj-tech-lab.com/blog/2026/11/05/van-council%ef%bc%88%e3%83%b4%e3%82%a1%e3%83%b3%e3%82%ab%e3%82%a6%e3%83%b3%e3%82%b7%e3%83%ab%ef%bc%89%e5%8d%83%e7%a8%ae%e5%ba%97%ef%bd%9c%e5%90%8d%e5%8f%a4%e5%b1%8b%e5%b8%82%e6%9d%b1%e5%8c%ba%e3%81%ae/",
+    "https://btj-tech-lab.com/blog/2026/11/05/%e3%82%a2%e3%83%95%e3%82%a7%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3%e9%87%91%e5%b1%b1%e5%ba%97%ef%bd%9c%e5%90%8d%e5%8f%a4%e5%b1%8b%e5%b8%82%e4%b8%ad%e5%8c%ba%e3%81%ae%e7%be%8e%e5%ae%b9%e5%ae%a4%e3%81%a7/",
     "https://btj-tech-lab.com/blog/2026/11/05/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%bf%e3%82%a4%e3%83%87%e3%82%a3%e3%83%bc%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%ef%bd%9c%e9%87%91%e6%b2%a2%e5%b8%82%e3%81%ae%e3%83%8f%e3%82%a6%e3%82%b9%e3%82%af/",
     "https://btj-tech-lab.com/blog/2026/11/05/hair-design-lieu-calme%ef%bd%9c%e7%91%9e%e7%a9%82%e7%94%ba%e3%81%ae%e7%be%8e%e5%ae%b9%e5%ae%a4%e3%81%a8%e9%ab%aa%e8%b3%aa%e3%81%ab%e5%90%88%e3%82%8f%e3%81%9b%e3%81%9f%e3%83%98%e3%82%a2%e3%82%b1/",
     "https://btj-tech-lab.com/blog/2026/11/05/%e3%81%8a%e3%81%86%e3%81%a1%e3%81%ae%e5%be%a1%e7%94%a8%e8%81%9e%e3%81%8d%e5%ae%b6%e5%b7%a5%e6%88%bf-%e5%b2%a1%e5%b4%8e%e7%be%8e%e5%90%88%e5%ba%97%ef%bd%9c%e5%b2%a1%e5%b4%8e%e5%b8%82%e3%81%ae%e4%be%bf/",
@@ -172,6 +179,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 19
+  "sent": 20
  }
 }

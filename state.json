@@ -99,6 +99,7 @@
   },
   "お店紹介ひとめ帳(btj-tech-lab)": {
    "seen": [
+    "https://btj-tech-lab.com/blog/2026/11/06/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a4%e3%83%af%e3%83%8a%e3%82%ac%e5%b7%a5%e6%a5%ad%ef%bd%9c%e8%ab%ab%e6%97%a9%e5%b8%82%e3%81%ae%e7%ae%a1%e5%b7%a5%e4%ba%8b%e3%83%bb%e6%a9%9f%e6%a2%b0%e8%a8%ad/",
     "https://btj-tech-lab.com/blog/2026/11/06/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e5%92%b2%e6%a5%bd%ef%bd%9c%e8%b1%8a%e5%b3%b6%e5%8c%ba%e3%81%ae%e6%b0%b4%e9%81%93%e5%b7%a5%e4%ba%8b%e3%83%bb%e6%b0%b4%e5%9b%9e%e3%82%8a%e3%83%aa%e3%83%95%e3%82%a9/",
     "https://btj-tech-lab.com/blog/2026/11/06/risel-yua-shibuya%e6%97%a7risel-shibuya2%ef%bd%9c%e6%b8%8b%e8%b0%b7%e5%8c%ba%e3%81%ae%e7%be%8e%e5%ae%b9%e5%ae%a4/",
     "https://btj-tech-lab.com/blog/2026/11/06/risel-shibuya%ef%bd%9c%e6%b8%8b%e8%b0%b7%e5%8c%ba%e3%81%ae%e3%82%a8%e3%82%af%e3%82%b9%e3%83%86%e5%af%be%e5%bf%9c%e7%be%8e%e5%ae%b9%e5%ae%a4/",
@@ -156,6 +157,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10730/",
+    "https://kurashi-album.com/company/10729/",
     "https://kurashi-album.com/company/10728/",
     "https://kurashi-album.com/company/10726/",
     "https://kurashi-album.com/company/10725/",
@@ -199,6 +202,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 27
+  "sent": 28
  }
 }

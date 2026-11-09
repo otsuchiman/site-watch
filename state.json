@@ -64,6 +64,7 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/roadside-assistance-in-osaka/",
     "https://chalkmessages.org/mat-rental-service-provider/",
     "https://chalkmessages.org/accommodation-in-tanabe-city/",
     "https://chalkmessages.org/housekeeping-service-minato-ward/",
@@ -193,6 +194,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10769/",
     "https://kurashi-album.com/company/10767/",
     "https://kurashi-album.com/essay/concrete-cold-joint-leakage-cause-high-pressure-injection/",
     "https://kurashi-album.com/company/10776/",
@@ -254,6 +256,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 36
+  "sent": 37
  }
 }

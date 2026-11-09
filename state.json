@@ -194,6 +194,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10784/",
+    "https://kurashi-album.com/company/10782/",
     "https://kurashi-album.com/company/10769/",
     "https://kurashi-album.com/company/10767/",
     "https://kurashi-album.com/essay/concrete-cold-joint-leakage-cause-high-pressure-injection/",
@@ -256,6 +258,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 37
+  "sent": 38
  }
 }

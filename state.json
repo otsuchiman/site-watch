@@ -76,6 +76,8 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/hiring-foreign-nationals-in-shiga/",
+    "https://chalkmessages.org/orchard-in-gunma/",
     "https://chalkmessages.org/roadside-assistance-in-osaka/",
     "https://chalkmessages.org/mat-rental-service-provider/",
     "https://chalkmessages.org/accommodation-in-tanabe-city/",
@@ -273,6 +275,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 40
+  "sent": 41
  }
 }

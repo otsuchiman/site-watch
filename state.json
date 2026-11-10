@@ -2,6 +2,18 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/44288/",
+    "https://mise-colle.com/44278/",
+    "https://mise-colle.com/44268/",
+    "https://mise-colle.com/44259/",
+    "https://mise-colle.com/44248/",
+    "https://mise-colle.com/44236/",
+    "https://mise-colle.com/44200/",
+    "https://mise-colle.com/44190/",
+    "https://mise-colle.com/44834/",
+    "https://mise-colle.com/44181/",
+    "https://mise-colle.com/44167/",
+    "https://mise-colle.com/44152/",
     "https://mise-colle.com/44142/",
     "https://mise-colle.com/44133/",
     "https://mise-colle.com/44121/",
@@ -194,6 +206,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10791/",
     "https://kurashi-album.com/company/10787/",
     "https://kurashi-album.com/company/10786/",
     "https://kurashi-album.com/company/10784/",
@@ -260,6 +273,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 39
+  "sent": 40
  }
 }

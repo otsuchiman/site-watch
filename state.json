@@ -2,6 +2,15 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/44435/",
+    "https://mise-colle.com/44373/",
+    "https://mise-colle.com/44633/",
+    "https://mise-colle.com/44631/",
+    "https://mise-colle.com/44619/",
+    "https://mise-colle.com/44609/",
+    "https://mise-colle.com/44576/",
+    "https://mise-colle.com/44597/",
+    "https://mise-colle.com/44586/",
     "https://mise-colle.com/44566/",
     "https://mise-colle.com/44564/",
     "https://mise-colle.com/44519/",
@@ -307,6 +316,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 46
+  "sent": 47
  }
 }

@@ -2,6 +2,23 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/44566/",
+    "https://mise-colle.com/44564/",
+    "https://mise-colle.com/44519/",
+    "https://mise-colle.com/44515/",
+    "https://mise-colle.com/44505/",
+    "https://mise-colle.com/44497/",
+    "https://mise-colle.com/44399/",
+    "https://mise-colle.com/44486/",
+    "https://mise-colle.com/44473/",
+    "https://mise-colle.com/44463/",
+    "https://mise-colle.com/44451/",
+    "https://mise-colle.com/44425/",
+    "https://mise-colle.com/44415/",
+    "https://mise-colle.com/44383/",
+    "https://mise-colle.com/44364/",
+    "https://mise-colle.com/44354/",
+    "https://mise-colle.com/44344/",
     "https://mise-colle.com/44335/",
     "https://mise-colle.com/44325/",
     "https://mise-colle.com/44323/",
@@ -130,6 +147,7 @@
   },
   "蝶々結び(furreality)": {
    "seen": [
+    "https://furreality.org/azabu-juban-beauty-salon/",
     "https://furreality.org/exterior-construction-work-in-okazaki-city/",
     "https://furreality.org/chiba-purchase-service/",
     "https://furreality.org/paving-work-in-nishi-ward-nagoya-city/",
@@ -289,6 +307,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 45
+  "sent": 46
  }
 }

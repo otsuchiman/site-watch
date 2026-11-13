@@ -2,6 +2,9 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/44788/",
+    "https://mise-colle.com/44778/",
+    "https://mise-colle.com/44767/",
     "https://mise-colle.com/44757/",
     "https://mise-colle.com/44753/",
     "https://mise-colle.com/44743/",
@@ -280,6 +283,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10844/",
+    "https://kurashi-album.com/company/10842/",
     "https://kurashi-album.com/essay/basic-reinforcement-spacing-inspection-points/",
     "https://kurashi-album.com/company/10839/",
     "https://kurashi-album.com/company/10837/",
@@ -372,6 +377,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 62
+  "sent": 63
  }
 }

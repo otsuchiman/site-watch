@@ -286,6 +286,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10846/",
     "https://kurashi-album.com/company/10844/",
     "https://kurashi-album.com/company/10842/",
     "https://kurashi-album.com/essay/basic-reinforcement-spacing-inspection-points/",
@@ -380,6 +381,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 64
+  "sent": 65
  }
 }

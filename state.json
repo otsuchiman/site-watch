@@ -150,6 +150,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/smoke-down-omiya/",
+    "https://cocoico.jp/places/ogawa-chiro-sagamiono-533-du36593/",
     "https://cocoico.jp/places/morino-kakurega-tokushima/",
     "https://cocoico.jp/places/yellowline-annaka/",
     "https://cocoico.jp/places/%e7%82%ad%e7%81%ab%e7%84%bc%e8%82%89-%e7%85%8c%ef%bc%88%e3%81%8d%e3%82%89%e3%82%81%e3%81%8d%ef%bc%89/",
@@ -390,6 +392,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 68
+  "sent": 69
  }
 }

@@ -150,6 +150,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/snow-cafe-nakanobu-533-du36722/",
     "https://cocoico.jp/places/smoke-down-omiya/",
     "https://cocoico.jp/places/ogawa-chiro-sagamiono-533-du36593/",
     "https://cocoico.jp/places/morino-kakurega-tokushima/",
@@ -392,6 +393,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 69
+  "sent": 70
  }
 }

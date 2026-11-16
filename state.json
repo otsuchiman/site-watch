@@ -150,6 +150,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/lapistone-music-nisshin-533-du36581/",
     "https://cocoico.jp/places/snow-cafe-nakanobu-533-du36722/",
     "https://cocoico.jp/places/smoke-down-omiya/",
     "https://cocoico.jp/places/ogawa-chiro-sagamiono-533-du36593/",
@@ -395,6 +396,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 72
+  "sent": 73
  }
 }

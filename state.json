@@ -304,6 +304,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10876/",
+    "https://kurashi-album.com/company/10874/",
     "https://kurashi-album.com/company/10872/",
     "https://kurashi-album.com/essay/home-inspection-limitations-used-houses/",
     "https://kurashi-album.com/company/10868/",
@@ -415,6 +417,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 79
+  "sent": 80
  }
 }

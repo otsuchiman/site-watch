@@ -2,6 +2,9 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/44976/",
+    "https://mise-colle.com/44966/",
+    "https://mise-colle.com/44958/",
     "https://mise-colle.com/44824/",
     "https://mise-colle.com/44808/",
     "https://mise-colle.com/44796/",
@@ -290,6 +293,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10868/",
     "https://kurashi-album.com/company/10866/",
     "https://kurashi-album.com/company/10864/",
     "https://kurashi-album.com/essay/janka-causes-countermeasures-foundation-formwork/",
@@ -398,6 +402,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 75
+  "sent": 76
  }
 }

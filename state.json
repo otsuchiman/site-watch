@@ -170,6 +170,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/kagurazaka-shin-shinjuku-533-du39506/",
     "https://cocoico.jp/places/lapistone-music-nisshin-533-du36581/",
     "https://cocoico.jp/places/snow-cafe-nakanobu-533-du36722/",
     "https://cocoico.jp/places/smoke-down-omiya/",
@@ -337,6 +338,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10880/",
+    "https://kurashi-album.com/company/10878/",
     "https://kurashi-album.com/company/10876/",
     "https://kurashi-album.com/company/10874/",
     "https://kurashi-album.com/company/10872/",
@@ -450,6 +453,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 83
+  "sent": 84
  }
 }

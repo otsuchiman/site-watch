@@ -136,6 +136,7 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/printing-in-gifu/",
     "https://chalkmessages.org/solar-power-in-tochigi/",
     "https://chalkmessages.org/mishima-telecommunications-construction/",
     "https://chalkmessages.org/visiting-nursing-in-higashiosaka/",
@@ -449,6 +450,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 82
+  "sent": 83
  }
 }

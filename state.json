@@ -176,6 +176,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/comecome-co-anjo-du37475/",
     "https://cocoico.jp/places/north-atelier-wakkanai-533-du34645/",
     "https://cocoico.jp/places/kagurazaka-shin-shinjuku-533-du39506/",
     "https://cocoico.jp/places/lapistone-music-nisshin-533-du36581/",
@@ -357,6 +358,9 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10907/",
+    "https://kurashi-album.com/company/10905/",
+    "https://kurashi-album.com/company/10903/",
     "https://kurashi-album.com/company/10901/",
     "https://kurashi-album.com/essay/condensation-window-insulation-solutions/",
     "https://kurashi-album.com/company/10897/",
@@ -482,6 +486,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 93
+  "sent": 94
  }
 }

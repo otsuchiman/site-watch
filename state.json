@@ -183,6 +183,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/hair-salon-sato-shimonita/",
+    "https://cocoico.jp/places/purple-rose-koga/",
     "https://cocoico.jp/places/giverny-hakuba-bb-otari/",
     "https://cocoico.jp/places/joynts-leather-works-nakatsugawa/",
     "https://cocoico.jp/places/kikuchi-seitai-yokosuka-hp5990/",
@@ -375,6 +377,12 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10934/",
+    "https://kurashi-album.com/company/10933/",
+    "https://kurashi-album.com/company/10932/",
+    "https://kurashi-album.com/company/10931/",
+    "https://kurashi-album.com/company/10930/",
+    "https://kurashi-album.com/company/10929/",
     "https://kurashi-album.com/company/10925/",
     "https://kurashi-album.com/company/10923/",
     "https://kurashi-album.com/company/10921/",
@@ -512,6 +520,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 100
+  "sent": 101
  }
 }

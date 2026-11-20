@@ -183,6 +183,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/minamihatogaya-superstars-kawaguchi/",
+    "https://cocoico.jp/places/hitoshizuku-books-seto/",
     "https://cocoico.jp/places/hair-salon-sato-shimonita/",
     "https://cocoico.jp/places/purple-rose-koga/",
     "https://cocoico.jp/places/giverny-hakuba-bb-otari/",
@@ -520,6 +522,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 101
+  "sent": 102
  }
 }

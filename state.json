@@ -183,6 +183,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/giverny-hakuba-bb-otari/",
     "https://cocoico.jp/places/joynts-leather-works-nakatsugawa/",
     "https://cocoico.jp/places/kikuchi-seitai-yokosuka-hp5990/",
     "https://cocoico.jp/places/comecome-co-anjo-du37475/",
@@ -511,6 +512,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 99
+  "sent": 100
  }
 }

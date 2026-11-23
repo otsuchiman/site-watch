@@ -237,6 +237,8 @@
   },
   "お店紹介ひとめ帳(btj-tech-lab)": {
    "seen": [
+    "https://btj-tech-lab.com/blog/2026/11/23/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e7%bf%94%e9%9b%bb%e3%83%86%e3%82%af%e3%83%8e%e3%82%b9%ef%bd%9c%e7%a6%8f%e5%b2%a1%e5%b8%82%e6%9d%b1%e5%8c%ba%e3%81%ae%e9%9b%bb%e6%b0%97%e5%b7%a5%e4%ba%8b%e3%81%a8/",
+    "https://btj-tech-lab.com/blog/2026/11/23/tks%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%ef%bd%9c%e5%b0%8f%e6%9d%be%e5%b8%82%e3%81%ae%e8%87%aa%e5%8b%95%e8%bb%8a%e6%95%b4%e5%82%99%e3%81%a8%e5%86%ac%e5%ad%a3%e3%81%ae%e9%98%b2%e9%8c%86%e5%af%be/",
     "https://btj-tech-lab.com/blog/2026/11/23/%e9%85%92%e7%94%b0%e5%b8%82%e3%81%ae%e7%be%8e%e5%91%b3%e3%81%97%e3%81%84%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc%e3%81%ae%e3%81%8a%e5%ba%97%e3%82%b7%e3%83%aa%e3%82%a6%e3%82%b9%ef%bd%9c%e3%82%b3%e3%83%bc/",
     "https://btj-tech-lab.com/blog/2026/11/23/%e3%81%95%e3%81%84%e3%81%9f%e3%81%be%e5%b8%82%e3%81%ae%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%82%a2%e3%82%b2%e3%82%a4%e3%83%b3%ef%bd%9c%e5%8e%9f%e7%8a%b6%e5%9b%9e%e5%be%a9%e5%b7%a5%e4%ba%8b%e3%81%a8/",
     "https://btj-tech-lab.com/blog/2026/11/23/%e6%b0%b4%e6%88%b8%e5%b8%82%e3%81%ae%e3%82%a8%e3%83%a0%e3%82%ba%e7%a4%be%e5%8a%b4%e5%a3%ab%e4%ba%8b%e5%8b%99%e6%89%80%ef%bd%9c%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e5%8a%b4%e5%8b%99%e5%a3%ab%e3%81%ae/",
@@ -538,6 +540,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 104
+  "sent": 105
  }
 }

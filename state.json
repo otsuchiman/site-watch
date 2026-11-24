@@ -2,6 +2,12 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/45181/",
+    "https://mise-colle.com/45168/",
+    "https://mise-colle.com/45158/",
+    "https://mise-colle.com/45148/",
+    "https://mise-colle.com/45138/",
+    "https://mise-colle.com/45128/",
     "https://mise-colle.com/45656/",
     "https://mise-colle.com/45655/",
     "https://mise-colle.com/45115/",
@@ -183,6 +189,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/malama-monstera-isumi/",
+    "https://cocoico.jp/places/oki-sekkotsuin-470-14543/",
     "https://cocoico.jp/places/minamihatogaya-superstars-kawaguchi/",
     "https://cocoico.jp/places/hitoshizuku-books-seto/",
     "https://cocoico.jp/places/hair-salon-sato-shimonita/",
@@ -540,6 +548,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 105
+  "sent": 106
  }
 }

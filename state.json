@@ -204,6 +204,9 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/car-up-nagasaki-sasebo/",
+    "https://cocoico.jp/places/houmon-iplus-kani/",
+    "https://cocoico.jp/places/sweet-famille-nagoya/",
     "https://cocoico.jp/places/fugetsudo-iwakuni/",
     "https://cocoico.jp/places/toriyakiniku-miroku-doicho-du34108/",
     "https://cocoico.jp/places/freedom-day-nishihara/",
@@ -445,6 +448,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10967/",
+    "https://kurashi-album.com/company/10965/",
     "https://kurashi-album.com/company/10963/",
     "https://kurashi-album.com/company/10961/",
     "https://kurashi-album.com/company/10959/",
@@ -596,6 +601,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 114
+  "sent": 115
  }
 }

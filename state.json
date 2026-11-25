@@ -151,6 +151,7 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/nagano-hot-springs/",
     "https://chalkmessages.org/tree-felling-in-miyagi/",
     "https://chalkmessages.org/osaka-steel-processing/",
     "https://chalkmessages.org/tongue-cleaner/",
@@ -559,6 +560,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 108
+  "sent": 109
  }
 }

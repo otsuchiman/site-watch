@@ -204,6 +204,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/okurayama-music-art-center/",
+    "https://cocoico.jp/places/bishokusakaba-no19-takasaki/",
     "https://cocoico.jp/places/car-up-nagasaki-sasebo/",
     "https://cocoico.jp/places/houmon-iplus-kani/",
     "https://cocoico.jp/places/sweet-famille-nagoya/",
@@ -601,6 +603,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 115
+  "sent": 116
  }
 }

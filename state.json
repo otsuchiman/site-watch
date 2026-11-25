@@ -2,6 +2,9 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/45222/",
+    "https://mise-colle.com/45209/",
+    "https://mise-colle.com/45199/",
     "https://mise-colle.com/45181/",
     "https://mise-colle.com/45168/",
     "https://mise-colle.com/45158/",
@@ -151,6 +154,7 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/dried-sweet-potato/",
     "https://chalkmessages.org/nagano-hot-springs/",
     "https://chalkmessages.org/tree-felling-in-miyagi/",
     "https://chalkmessages.org/osaka-steel-processing/",
@@ -415,6 +419,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/essay/waterproof-sheet-breathability-ventilation-wall-maintenance/",
     "https://kurashi-album.com/company/10952/",
     "https://kurashi-album.com/company/10950/",
     "https://kurashi-album.com/company/10934/",
@@ -560,6 +565,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 109
+  "sent": 110
  }
 }

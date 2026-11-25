@@ -204,6 +204,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/quality-menswear-kanoya/",
+    "https://cocoico.jp/places/washi-533-hp4255/",
     "https://cocoico.jp/places/okurayama-music-art-center/",
     "https://cocoico.jp/places/bishokusakaba-no19-takasaki/",
     "https://cocoico.jp/places/car-up-nagasaki-sasebo/",
@@ -603,6 +605,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 116
+  "sent": 117
  }
 }

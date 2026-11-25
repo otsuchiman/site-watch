@@ -204,6 +204,9 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/fugetsudo-iwakuni/",
+    "https://cocoico.jp/places/toriyakiniku-miroku-doicho-du34108/",
+    "https://cocoico.jp/places/freedom-day-nishihara/",
     "https://cocoico.jp/places/yoshikawa-shinkyu-gyoda-533-du37417/",
     "https://cocoico.jp/places/the-kinta-naeba-du36838/",
     "https://cocoico.jp/places/malama-monstera-isumi/",
@@ -442,6 +445,10 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10963/",
+    "https://kurashi-album.com/company/10961/",
+    "https://kurashi-album.com/company/10959/",
+    "https://kurashi-album.com/company/10957/",
     "https://kurashi-album.com/company/10955/",
     "https://kurashi-album.com/essay/waterproof-sheet-breathability-ventilation-wall-maintenance/",
     "https://kurashi-album.com/company/10952/",
@@ -589,6 +596,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 113
+  "sent": 114
  }
 }

@@ -226,6 +226,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/gm-medaka-honten-niigata-533-du31759/",
     "https://cocoico.jp/places/hairmode-nakamoto-taketoyo/",
     "https://cocoico.jp/places/ikuma-soft-seitai-meinohama-du35055/",
     "https://cocoico.jp/places/ruphire-shimizu/",
@@ -636,6 +637,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 123
+  "sent": 124
  }
 }

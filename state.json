@@ -2,6 +2,23 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/45527/",
+    "https://mise-colle.com/45517/",
+    "https://mise-colle.com/45507/",
+    "https://mise-colle.com/45497/",
+    "https://mise-colle.com/45486/",
+    "https://mise-colle.com/45472/",
+    "https://mise-colle.com/45442/",
+    "https://mise-colle.com/45434/",
+    "https://mise-colle.com/45416/",
+    "https://mise-colle.com/45379/",
+    "https://mise-colle.com/45452/",
+    "https://mise-colle.com/45462/",
+    "https://mise-colle.com/45406/",
+    "https://mise-colle.com/45396/",
+    "https://mise-colle.com/45388/",
+    "https://mise-colle.com/45363/",
+    "https://mise-colle.com/45341/",
     "https://mise-colle.com/45325/",
     "https://mise-colle.com/45315/",
     "https://mise-colle.com/45305/",
@@ -204,6 +221,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/rakuma-seitai/",
+    "https://cocoico.jp/places/kodomoya-isesaki/",
     "https://cocoico.jp/places/quality-menswear-kanoya/",
     "https://cocoico.jp/places/washi-533-hp4255/",
     "https://cocoico.jp/places/okurayama-music-art-center/",
@@ -606,6 +625,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 118
+  "sent": 119
  }
 }

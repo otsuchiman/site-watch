@@ -2,6 +2,7 @@
  "sites": {
   "みせコレ": {
    "seen": [
+    "https://mise-colle.com/45538/",
     "https://mise-colle.com/45527/",
     "https://mise-colle.com/45517/",
     "https://mise-colle.com/45507/",
@@ -180,6 +181,8 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/roadside-station-minami-ise/",
+    "https://chalkmessages.org/osaka-motorcycles/",
     "https://chalkmessages.org/handmade-components/",
     "https://chalkmessages.org/dried-sweet-potato/",
     "https://chalkmessages.org/nagano-hot-springs/",
@@ -221,6 +224,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/ruphire-shimizu/",
     "https://cocoico.jp/places/rakuma-seitai/",
     "https://cocoico.jp/places/kodomoya-isesaki/",
     "https://cocoico.jp/places/quality-menswear-kanoya/",
@@ -625,6 +629,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 119
+  "sent": 120
  }
 }

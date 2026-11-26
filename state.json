@@ -481,6 +481,7 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10984/",
     "https://kurashi-album.com/company/10982/",
     "https://kurashi-album.com/company/10980/",
     "https://kurashi-album.com/company/10978/",
@@ -641,6 +642,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 127
+  "sent": 128
  }
 }

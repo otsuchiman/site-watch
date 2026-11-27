@@ -181,6 +181,10 @@
   },
   "虹色マーチ(chalkmessages)": {
    "seen": [
+    "https://chalkmessages.org/personal-training-in-yokohama/",
+    "https://chalkmessages.org/tsu-city-rice/",
+    "https://chalkmessages.org/natural-wine-online-shop/",
+    "https://chalkmessages.org/locksmith-in-osaka/",
     "https://chalkmessages.org/azumino-villa/",
     "https://chalkmessages.org/hita-city-fried-chicken/",
     "https://chalkmessages.org/ryokan-in-hakone-yumoto/",
@@ -227,6 +231,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/yamaju-kiragawa-muroto/",
     "https://cocoico.jp/places/gm-medaka-honten-niigata-533-du31759/",
     "https://cocoico.jp/places/hairmode-nakamoto-taketoyo/",
     "https://cocoico.jp/places/ikuma-soft-seitai-meinohama-du35055/",
@@ -655,6 +660,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 130
+  "sent": 131
  }
 }

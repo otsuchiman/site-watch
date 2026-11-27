@@ -231,6 +231,9 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/slow-533-du35796/",
+    "https://cocoico.jp/places/nocturne-533-du35781/",
+    "https://cocoico.jp/places/lotus-fukuoka-koga-du36443/",
     "https://cocoico.jp/places/biura-gyoda-533-hp7779/",
     "https://cocoico.jp/places/yamaju-kiragawa-muroto/",
     "https://cocoico.jp/places/gm-medaka-honten-niigata-533-du31759/",
@@ -662,6 +665,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 132
+  "sent": 133
  }
 }

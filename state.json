@@ -231,6 +231,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/blue-green-seseragi-ibaraki/",
     "https://cocoico.jp/places/najimi-kandoyama/",
     "https://cocoico.jp/places/kitasanriku-sakaba-hirono-nakanobu/",
     "https://cocoico.jp/places/koryukaku-533-du36576/",
@@ -673,6 +674,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 135
+  "sent": 136
  }
 }

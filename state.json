@@ -231,6 +231,8 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/kitasanriku-sakaba-hirono-nakanobu/",
+    "https://cocoico.jp/places/koryukaku-533-du36576/",
     "https://cocoico.jp/places/slow-533-du35796/",
     "https://cocoico.jp/places/nocturne-533-du35781/",
     "https://cocoico.jp/places/lotus-fukuoka-koga-du36443/",
@@ -504,6 +506,8 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10988/",
+    "https://kurashi-album.com/company/10986/",
     "https://kurashi-album.com/company/10984/",
     "https://kurashi-album.com/company/10982/",
     "https://kurashi-album.com/company/10980/",
@@ -665,6 +669,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 133
+  "sent": 134
  }
 }

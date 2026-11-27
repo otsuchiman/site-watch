@@ -231,6 +231,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/biura-gyoda-533-hp7779/",
     "https://cocoico.jp/places/yamaju-kiragawa-muroto/",
     "https://cocoico.jp/places/gm-medaka-honten-niigata-533-du31759/",
     "https://cocoico.jp/places/hairmode-nakamoto-taketoyo/",
@@ -306,6 +307,7 @@
   },
   "お店紹介ひとめ帳(btj-tech-lab)": {
    "seen": [
+    "https://btj-tech-lab.com/blog/2026/11/27/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%be%e3%83%aa%e3%83%b4%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab%ef%bc%8f%e3%82%b9%e3%82%a4%e3%83%83%e3%83%81%e3%83%9b%e3%83%bc%e3%83%a0%e5%b8%83%e6%96%bd%e5%ba%97%ef%bd%9c/",
     "https://btj-tech-lab.com/blog/2026/11/27/%e3%83%8f%e3%83%aa%e3%83%a4%ef%bc%88%e6%a0%aa%ef%bc%89%ef%bd%9c%e6%98%a5%e6%97%a5%e9%83%a8%e5%b8%82%e3%81%ae%e5%a4%96%e5%a3%81%e5%b7%a5%e4%ba%8b%e3%83%bb%e5%b1%8b%e6%a0%b9%e5%b7%a5%e4%ba%8b%e3%83%bb/",
     "https://btj-tech-lab.com/blog/2026/11/27/%e5%a4%a9%e5%af%8c%e8%89%af-%e5%a4%a9%e9%9c%b2%ef%bd%9c%e4%b8%96%e7%94%b0%e8%b0%b7%e5%8c%ba%e3%81%ae%e5%a4%a9%e3%81%b7%e3%82%89%e3%83%bb%e5%92%8c%e9%a3%9f%e5%ba%97%e3%81%a7%e5%91%b3%e3%82%8f%e3%81%86/",
     "https://btj-tech-lab.com/blog/2026/11/27/%e4%b8%ad%e8%8f%af%e3%81%9d%e3%81%b0hibari%ef%bd%9c%e5%a4%aa%e7%94%b0%e5%b8%82%e3%81%ae%e8%87%aa%e5%ae%b6%e8%a3%bd%e9%ba%ba%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e5%ba%97/",
@@ -660,6 +662,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 131
+  "sent": 132
  }
 }

@@ -231,6 +231,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/najimi-kandoyama/",
     "https://cocoico.jp/places/kitasanriku-sakaba-hirono-nakanobu/",
     "https://cocoico.jp/places/koryukaku-533-du36576/",
     "https://cocoico.jp/places/slow-533-du35796/",
@@ -506,6 +507,9 @@
   },
   "暮らしアルバム": {
    "seen": [
+    "https://kurashi-album.com/company/10994/",
+    "https://kurashi-album.com/company/10992/",
+    "https://kurashi-album.com/company/10990/",
     "https://kurashi-album.com/company/10988/",
     "https://kurashi-album.com/company/10986/",
     "https://kurashi-album.com/company/10984/",
@@ -669,6 +673,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 134
+  "sent": 135
  }
 }

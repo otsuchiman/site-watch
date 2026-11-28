@@ -231,6 +231,7 @@
   },
   "ココイコ(cocoico)": {
    "seen": [
+    "https://cocoico.jp/places/kishimoto-akashi-470-14507/",
     "https://cocoico.jp/places/blue-green-seseragi-ibaraki/",
     "https://cocoico.jp/places/najimi-kandoyama/",
     "https://cocoico.jp/places/kitasanriku-sakaba-hirono-nakanobu/",
@@ -674,6 +675,6 @@
  },
  "quota": {
   "month": "2026-11",
-  "sent": 136
+  "sent": 137
  }
 }
